@@ -8,7 +8,7 @@
   "blogs": [
     {
       "name": "Simon Willison",
-      "url": "https://fedi.simonwillison.net/@simon.rss"
+      "url": "https://simonwillison.net/atom/everything/"
     },
     {
       "name": "Cory Doctorow",
@@ -27,12 +27,6 @@
       "url": "https://fasterthanli.me/index.xml"
     }
   ],
-  "mastodon": [
-    {
-      "name": "Simon Willison",
-      "url": "https://fedi.simonwillison.net/@simon.rss"
-    }
-  ],
   "github releases": [
     {
       "name": "OpenSearch",
@@ -43,6 +37,12 @@
     {
       "name": "/r/Games",
       "url": "https://www.reddit.com/r/Games.rss"
+    }
+  ],
+  "mastodon": [
+    {
+      "name": "Simon Willison",
+      "url": "https://fedi.simonwillison.net/@simon.rss"
     }
   ]
 }
