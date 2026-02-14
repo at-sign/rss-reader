@@ -33,7 +33,7 @@
       "url": "https://fedi.simonwillison.net/@simon.rss"
     }
   ],
-  "Github Releases": [
+  "github releases": [
     {
       "name": "OpenSearch",
       "url": "https://github.com/opensearch-project/OpenSearch-Dashboards/releases.atom"
