@@ -7,28 +7,36 @@
   ],
   "blogs": [
     {
-      "name": "Xe Iaso",
-      "url": "https://xeiaso.net/blog.rss"
+      "name": "Simon Willison",
+      "url": "https://fedi.simonwillison.net/@simon.rss"
     },
     {
-      "name": "Drew DeVault",
-      "url": "https://drewdevault.com/blog/index.xml"
-    },
-    {
-      "name": "Dan Luu",
-      "url": "https://danluu.com/atom.xml"
+      "name": "Cory Doctorow",
+      "url": "https://pluralistic.net/feed/"
     },
     {
       "name": "Kevin Fiol",
       "url": "https://kevinfiol.com/atom.xml"
     },
     {
-      "name": "Terry's Free Game of the Week",
-      "url": "https://terrysfreegameoftheweek.com/feed/"
+      "name": "George Mandis",
+      "url": "https://george.mand.is/feed.xml"
     },
     {
       "name": "fasterthanli.me",
       "url": "https://fasterthanli.me/index.xml"
+    }
+  ],
+  "mastodon": [
+    {
+      "name": "Simon Willison",
+      "url": "https://fedi.simonwillison.net/@simon.rss"
+    }
+  ],
+  "Github Releases": [
+    {
+      "name": "OpenSearch",
+      "url": "https://github.com/opensearch-project/OpenSearch-Dashboards/releases.atom"
     }
   ],
   "reddit": [
