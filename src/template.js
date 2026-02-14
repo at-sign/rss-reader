@@ -18,8 +18,6 @@ const article = (item) => `
         }
         <li class="article-links-item"><a href="https://archive.today/${item.link}" target='_blank' rel='noopener norefferer nofollow'>[a.to]</a></li>
 		<li class="article-links-item"><a href="https://web.archive.org/web/20*/${item.link}" target='_blank' rel='noopener norefferer nofollow'>[wbm]</a></li>
-        <li class="article-links-item"><a href="https://txtify.it/${item.link}" target='_blank' rel='noopener norefferer nofollow'>[txtfy]</a></li>
-		<li class="article-links-item"><a href="https://r3ad.deno.dev/${item.link}" target='_blank' rel='noopener norefferer nofollow'>[r3ad]</a></li>
       </ul>
     </header>
   </article>
