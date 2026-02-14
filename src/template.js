@@ -67,7 +67,7 @@ export const template = ({ allItems, groups, errors, now }) => (`
         </p>
         <p>
           Set up your own reader with your preferred feeds, by forking this project! Check out how at:
-		  <a href="https://github.com/kmfd/rss-reader">https://github.com/kmfd/rss-reader</a></p>
+		  <a href="https://github.com/at-sign/rss-reader">https://github.com/at-sign/rss-reader</a></p>
         </p>
 		</br>
         <p>
