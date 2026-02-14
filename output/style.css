@@ -468,7 +468,7 @@ section:target ~ .default-text {
 @media screen and (min-width: 901px) {
 	section:target {
 	  display: grid;
-	  grid-template-columns: repeat(3, 1fr);
+	  grid-template-columns: repeat(3, 33%);
 	  grid-column-gap: 6px;
 	  padding-left: 5px;
 	  margin: 0 auto;
