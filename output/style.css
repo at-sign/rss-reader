@@ -17,6 +17,10 @@
     --bg-color: #030303;
     --faded-bg: #0b0b0b;
   }
+
+  .feed-url, .feed-timestamp {
+    color:#aaa;
+  }
 }
 										
   :root {
@@ -337,10 +341,6 @@ summary:hover div {
 .feed-title {
   font-weight: var(--title-font-weight);
   font-size: var(--title-font-size);
-}
-
-.feed-url, .feed-timestamp {
-  color:#aaa;
 }
 
 .feed-url {
